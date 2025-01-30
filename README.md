@@ -1,7 +1,7 @@
 # SARChat
 
 <p align="center">
-  <img src="./assets/logo.png" alt="SARChat Logo" width="400"/>
+  <img src="./assets/logo.png" alt="SARChat Logo" width="800"/>
 </p>
 
 <p align="center">
@@ -41,6 +41,8 @@ SARChat-Bench-2M is the first large-scale multimodal dialogue dataset focusing o
 
 ## Dataset Statistics
 
+### Tasks Statistics
+
 | Task | Train Set | Test Set |
 |------|-----------|-----------|
 | Classification | 81,788 | 10,024 |
@@ -49,6 +51,14 @@ SARChat-Bench-2M is the first large-scale multimodal dialogue dataset focusing o
 | Spatial Grounding | 94,456 | 11,608 |
 | Cross-Modal Identification | 1,423,548 | 175,565 |
 | Referring | 95,486 | 11,703 |
+
+### Words Statistics
+
+| Metric                 | Value       |
+| ---------------------- | ----------- |
+| Total Words            | 43,978,559  |
+| Total Sentences        | 4,222,143   |
+| Average Caption Length | 10.66  |
 
 ## Quick Start
 
