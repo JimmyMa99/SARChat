@@ -34,13 +34,13 @@ SARChat-Bench-2M is the first large-scale multimodal dialogue dataset focusing o
 ## Architecture & Workflow
 
 <p align="center">
-  <img src="./assets/SARChat_architecture.png" alt="SARChat Architecture" width="800"/>
+  <img src="./assets/SARChat_architecture.png" alt="SARChat Architecture" width="400"/>
   <br>
   <em>Figure 1: The overall architecture of SARChat</em>
 </p>
 
 <p align="center">
-  <img src="./assets/SARChat_data_workflow.png" alt="SARChat Data Workflow" width="800"/>
+  <img src="./assets/SARChat_data_workflow.png" alt="SARChat Data Workflow" width="400"/>
   <br>
   <em>Figure 2: Data processing workflow of SARChat</em>
 </p>
