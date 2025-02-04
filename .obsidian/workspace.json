@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "81fec0f327de8216",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -162,8 +176,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ee432f41ac1dc7b2",
+  "active": "81fec0f327de8216",
   "lastOpenFiles": [
+    "assets/SARChat_data_workflow.png",
+    "assets/SARChat_architecture.png",
+    "assets/data_workflow.png",
     "IMG_20250131_014506.png"
   ]
 }

@@ -31,6 +31,20 @@ SARChat-Bench-2M is the first large-scale multimodal dialogue dataset focusing o
 
 📑 Read more about SARChat in our [paper](https://arxiv.org/abs/xxxx.xxxxx).
 
+## Architecture & Workflow
+
+<p align="center">
+  <img src="./assets/SARChat_architecture.png" alt="SARChat Architecture" width="800"/>
+  <br>
+  <em>Figure 1: The overall architecture of SARChat</em>
+</p>
+
+<p align="center">
+  <img src="./assets/SARChat_data_workflow.png" alt="SARChat Data Workflow" width="800"/>
+  <br>
+  <em>Figure 2: Data processing workflow of SARChat</em>
+</p>
+
 ## Key Features
 
 - 🌟 **2M+** high-quality SAR image-text pairs
@@ -82,7 +96,6 @@ For any questions or feedback, please contact:
 
 - 📧 Email: mazhiming312@outlook.com
 - 💬 GitHub Issues: Feel free to open an issue in this repository
-
 
 ## Acknowledgments
 
