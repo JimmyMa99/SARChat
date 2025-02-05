@@ -94,6 +94,16 @@ SARChat-Bench-2M is the first large-scale multimodal dialogue dataset focusing o
 
 🤗 Visit our [Hugging Face dataset page](https://huggingface.co/datasets/YourOrg/SARChat) for more details and examples.
 
+## Results Showcase
+
+<p align="center">
+  <img src="./assets/SARChat_result.png" alt="SARChat Results" width="800"/>
+  <br>
+  <em>Figure 5: Example results from SARChat-InternVL2.5-8B model on various SAR vision-language tasks</em>
+</p>
+
+The above figure demonstrates the capabilities of our SARChat-InternVL2.5-8B model across different tasks. The model shows strong performance in understanding complex SAR imagery, providing detailed descriptions, accurate counting, and precise spatial reasoning. These results highlight the model's ability to bridge the gap between SAR imagery and natural language understanding.
+
 ## SARChat Models
 
 We have trained and evaluated several models using the SARChat dataset:
