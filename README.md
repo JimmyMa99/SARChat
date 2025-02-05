@@ -96,11 +96,27 @@ SARChat-Bench-2M is the first large-scale multimodal dialogue dataset focusing o
 
 ## SARChat Models
 
-We have trained several models using the SARChat dataset. These models are available on Hugging Face:
+We have trained and evaluated several models using the SARChat dataset:
 
-- [SARChat-7B](https://huggingface.co/YourOrg/SARChat-7B)
-- [SARChat-13B](https://huggingface.co/YourOrg/SARChat-13B)
-- [SARChat-34B](https://huggingface.co/YourOrg/SARChat-34B)
+| Model | Size | Link |
+|-------|------|------|
+| SARChat-InternVL2.5 | 1B | [Link](https://huggingface.co/YourOrg/internvl2.5-1b) |
+| SARChat-InternVL2.5 | 2B | [Link](https://huggingface.co/YourOrg/internvl2.5-2b) |
+| SARChat-InternVL2.5 | 4B | [Link](https://huggingface.co/YourOrg/internvl2.5-4b) |
+| SARChat-InternVL2.5 | 8B | [Link](https://huggingface.co/YourOrg/internvl2.5-8b) |
+| SARChat-Qwen2VL | 2B | [Link](https://huggingface.co/YourOrg/qwen2vl-2b) |
+| SARChat-Qwen2VL | 7B | [Link](https://huggingface.co/YourOrg/qwen2vl-7b) |
+| SARChat-DeepSeekVL | 1.3B | [Link](https://huggingface.co/YourOrg/deepseekvl-1.3b) |
+| SARChat-DeepSeekVL | 7B | [Link](https://huggingface.co/YourOrg/deepseekvl-7b) |
+| SARChat-OWL3 | 1B | [Link](https://huggingface.co/YourOrg/owl3-1b) |
+| SARChat-OWL3 | 2B | [Link](https://huggingface.co/YourOrg/owl3-2b) |
+| SARChat-OWL3 | 7B | [Link](https://huggingface.co/YourOrg/owl3-7b) |
+| SARChat-Phi3V | 4.3B | [Link](https://huggingface.co/YourOrg/phi3v-4.3b) |
+| SARChat-GLM-Edge | 2B | [Link](https://huggingface.co/YourOrg/glm-edge-2b) |
+| SARChat-GLM-Edge | 4B | [Link](https://huggingface.co/YourOrg/glm-edge-4b) |
+| SARChat-LLaVA-1.5 | 7B | [Link](https://huggingface.co/YourOrg/llava-v1.5-7b) |
+| SARChat-DeepSeekVL2 | Tiny (2.8B) | [Link](https://huggingface.co/YourOrg/deepseekvl2-tiny) |
+| SARChat-Yi-VL | 7B | [Link](https://huggingface.co/YourOrg/yi-vl-7b) |
 
 ## Citation
 
