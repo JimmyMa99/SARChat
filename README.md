@@ -58,8 +58,8 @@ SARChat-Bench-2M is the first large-scale multimodal dialogue dataset focusing o
 ### Tasks Statistics
 
 <p align="center">
-  <img src="./assets/[Total]SARChat-Train-Task-distribution.png" alt="Train Task Distribution" width="400"/>
-  <img src="./assets/[Total]SARChat-Test-Task-distribution.png" alt="Test Task Distribution" width="400"/>
+  <img src="./assets/SARChat_Train_Task_distribution.png" alt="Train Task Distribution" width="400"/>
+  <img src="./assets/SARChat_Test_Task_distribution.png" alt="Test Task Distribution" width="400"/>
   <br>
   <em>Figure 3: Distribution of tasks in training (left) and test (right) sets</em>
 </p>
@@ -76,8 +76,8 @@ SARChat-Bench-2M is the first large-scale multimodal dialogue dataset focusing o
 ### Category Analysis
 
 <p align="center">
-  <img src="./assets/[Total]Train_categories_index.png" alt="Train Categories" width="400"/>
-  <img src="./assets/[Total]Test_categories_index.png" alt="Test Categories" width="400"/>
+  <img src="./assets/Train_categories_index.png" alt="Train Categories" width="400"/>
+  <img src="./assets/Test_categories_index.png" alt="Test Categories" width="400"/>
   <br>
   <em>Figure 4: Category distribution in training (left) and test (right) sets</em>
 </p>
