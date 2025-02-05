@@ -57,6 +57,13 @@ SARChat-Bench-2M is the first large-scale multimodal dialogue dataset focusing o
 
 ### Tasks Statistics
 
+<p align="center">
+  <img src="./assets/[Total]SARChat-Train-Task-distribution.png" alt="Train Task Distribution" width="400"/>
+  <img src="./assets/[Total]SARChat-Test-Task-distribution.png" alt="Test Task Distribution" width="400"/>
+  <br>
+  <em>Figure 3: Distribution of tasks in training (left) and test (right) sets</em>
+</p>
+
 | Task | Train Set | Test Set |
 |------|-----------|-----------|
 | Classification | 81,788 | 10,024 |
@@ -65,6 +72,15 @@ SARChat-Bench-2M is the first large-scale multimodal dialogue dataset focusing o
 | Spatial Grounding | 94,456 | 11,608 |
 | Cross-Modal Identification | 1,423,548 | 175,565 |
 | Referring | 95,486 | 11,703 |
+
+### Category Analysis
+
+<p align="center">
+  <img src="./assets/[Total]Train_categories_index.png" alt="Train Categories" width="400"/>
+  <img src="./assets/[Total]Test_categories_index.png" alt="Test Categories" width="400"/>
+  <br>
+  <em>Figure 4: Category distribution in training (left) and test (right) sets</em>
+</p>
 
 ### Words Statistics
 
