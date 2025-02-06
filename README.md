@@ -124,7 +124,7 @@ We have trained and evaluated several models using the SARChat dataset:
 | mPLUG-Owl | SARChat-Owl3 | 7B | [Link](https://huggingface.co/YourOrg/owl3-7b) |
 | Microsoft | SARChat-Phi3V | 4.3B | [Link](https://huggingface.co/YourOrg/phi3v-4.3b) |
 | Zhipu AI | SARChat-GLM-Edge | 2B | [Link](https://huggingface.co/YourOrg/glm-edge-2b) |
-| Zhipu AI | SARChat-GLM-Edge | 4B | [Link](https://huggingface.co/YourOrg/glm-edge-4b) |
+| Zhipu AI | SARChat-GLM-Edge | 5B | [Link](https://huggingface.co/YourOrg/glm-edge-4b) |
 | LLaVA-Team | SARChat-LLaVA-1.5 | 7B | [Link](https://huggingface.co/YourOrg/llava-v1.5-7b) |
 | 01.AI | SARChat-Yi-VL | 7B | [Link](https://huggingface.co/YourOrg/yi-vl-7b) |
 
