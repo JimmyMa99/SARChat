@@ -178,6 +178,8 @@
   },
   "active": "71dc991c6d684dae",
   "lastOpenFiles": [
+    "assets/model_score.png",
+    "assets/radar+line.drawio.png",
     "assets/SARChat_result.png",
     "assets/SARChat_result.drawio.png",
     "image.png",
@@ -187,8 +189,6 @@
     "assets/Test_categories_index.png",
     "assets/Train_categories_index.png",
     "assets/SARChat-Test-Task-distribution.png",
-    "assets/[Total]SARChat-Train-Task-distribution.png",
-    "assets/[Total]SARChat-Test-Task-distribution.png",
     "train/logs/[SARChat-TOTAL-NORMAL]internvl2-5-1b_lora_sft_20250131_203721.log",
     "train/logs/[SARChat-TOTAL-NORMAL]mPLUG_Owl3_2b_lora_sft_20250120_212214.log",
     "train/logs/[SARChat-TOTAL-NORMAL]llava_v1.5_vicuna_lora_sft_20250130_124619.log",

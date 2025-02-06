@@ -90,6 +90,14 @@ SARChat-Bench-2M is the first large-scale multimodal dialogue dataset focusing o
 | Total Sentences        | 4,222,143   |
 | Average Caption Length | 10.66  |
 
+## Model Performance
+
+<p align="center">
+  <img src="./assets/model_score.png" alt="Model Performance" width="800"/>
+  <br>
+  <em>Figure 5: Comprehensive evaluation results showing radar chart of model capabilities (left) and performance scores across different model series (right)</em>
+</p>
+
 ## Quick Start
 
 🤗 Visit our [Hugging Face dataset page](https://huggingface.co/datasets/YourOrg/SARChat) for more details and examples.
@@ -99,7 +107,7 @@ SARChat-Bench-2M is the first large-scale multimodal dialogue dataset focusing o
 <p align="center">
   <img src="./assets/SARChat_result.png" alt="SARChat Results" width="800"/>
   <br>
-  <em>Figure 5: Example results from SARChat-InternVL2.5-8B model on various SAR vision-language tasks</em>
+  <em>Figure 6: Example results from SARChat-InternVL2.5-8B model on various SAR vision-language tasks</em>
 </p>
 
 The above figure demonstrates the capabilities of our SARChat-InternVL2.5-8B model across different tasks. The model shows strong performance in understanding complex SAR imagery, providing detailed descriptions, accurate counting, and precise spatial reasoning. These results highlight the model's ability to bridge the gap between SAR imagery and natural language understanding.

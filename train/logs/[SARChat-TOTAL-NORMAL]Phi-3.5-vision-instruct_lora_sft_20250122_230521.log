@@ -382,7 +382,7 @@ Failures:
 Root Cause (first observed failure):
 [0]:
   time      : 2025-01-22_23:06:42
-  host      : intern-studio-038292
+  host      : studio-038292
   rank      : 1 (local_rank: 1)
   exitcode  : 1 (pid: 783702)
   error_file: <N/A>
