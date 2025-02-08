@@ -27,7 +27,7 @@
 
 ## Introduction
 
-SARChat-Bench-2M is the first large-scale multimodal dialogue dataset focusing on Synthetic Aperture Radar (SAR) imagery. It contains approximately 2 million high-quality SAR image-text pairs, supporting multiple tasks including scene classification, image captioning, visual question answering, and object localization. We conducted comprehensive evaluations on 11 state-of-the-art vision-language models (including Qwen2VL, InternVL2.5, and LLaVA), establishing the first multi-task benchmark in the SAR domain.
+SARChat-Bench-2M is the first large-scale multimodal dialogue dataset focusing on Synthetic Aperture Radar (SAR) imagery. It contains approximately 2 million high-quality SAR image-text pairs, supporting multiple tasks including scene classification, image captioning, visual question answering, and object localization. We conducted comprehensive evaluations on 16 state-of-the-art vision-language models (including Qwen2VL, InternVL2.5, and LLaVA), establishing the first multi-task benchmark in the SAR domain.
 
 📑 Read more about SARChat in our [paper](https://arxiv.org/abs/xxxx.xxxxx).
 
@@ -126,7 +126,6 @@ We have trained and evaluated several models using the SARChat dataset:
 | QwenVL | SARChat-Qwen2VL | 7B | [Link](https://huggingface.co/YourOrg/qwen2vl-7b) |
 | DeepSeek | SARChat-DeepSeekVL | 1.3B | [Link](https://huggingface.co/YourOrg/deepseekvl-1.3b) |
 | DeepSeek | SARChat-DeepSeekVL | 7B | [Link](https://huggingface.co/YourOrg/deepseekvl-7b) |
-| DeepSeek | SARChat-DeepSeekVL2 | Tiny (2.8B) | [Link](https://huggingface.co/YourOrg/deepseekvl2-tiny) |
 | mPLUG-Owl | SARChat-Owl3 | 1B | [Link](https://huggingface.co/YourOrg/owl3-1b) |
 | mPLUG-Owl | SARChat-Owl3 | 2B | [Link](https://huggingface.co/YourOrg/owl3-2b) |
 | mPLUG-Owl | SARChat-Owl3 | 7B | [Link](https://huggingface.co/YourOrg/owl3-7b) |
