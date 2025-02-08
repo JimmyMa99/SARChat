@@ -178,6 +178,7 @@
   },
   "active": "71dc991c6d684dae",
   "lastOpenFiles": [
+    "infer/README.md",
     "infer/swift-eval.py",
     "infer",
     "assets/model_score.png",
@@ -198,7 +199,6 @@
     "train/logs/[SARChat-TOTAL-NORMAL]llava_next_8b_lora_sft_20250130_130753.log",
     "train/logs/[SARChat-TOTAL-NORMAL]llava_v1.6_vicuna_lora_sft_20250130_134236.log",
     "train/logs/[SARChat-TOTAL-NORMAL]Qwen2_VL_2B_lora_sft_20250129_010642.log",
-    "train/logs/[SARChat-TOTAL-NORMAL]Yi_vl_6b_lora_sft_20250204_020315.log",
     "train/README.md",
     "eval/README.md"
   ]
