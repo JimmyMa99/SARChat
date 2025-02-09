@@ -1,7 +1,7 @@
 # SARChat
 
 <p align="center">
-  <img src="./assets/logo.png" alt="SARChat Logo" width="800"/>
+  <img src="./assets/logo.png" alt="SARChat Logo" width="800"/>                        
 </p>
 
 <p align="center">
