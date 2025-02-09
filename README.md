@@ -67,7 +67,7 @@ SARChat-Bench-2M is the first large-scale multimodal dialogue dataset focusing o
 </p>
 
 | Task | Train Set | Test Set |
-|------|-----------|-----------|
+|:---:|:---:|:---:|
 | Classification | 81,788 | 10,024 |
 | Fine-Grained Description | 46,141 | 6,032 |
 | Instance Counting | 95,493 | 11,704 |
@@ -86,11 +86,11 @@ SARChat-Bench-2M is the first large-scale multimodal dialogue dataset focusing o
 
 ### Words Statistics
 
-| Metric                 | Value       |
-| ---------------------- | ----------- |
-| Total Words            | 43,978,559  |
-| Total Sentences        | 4,222,143   |
-| Average Caption Length | 10.66  |
+| Metric | Value |
+|:---:|:---:|
+| Total Words | 43,978,559 |
+| Total Sentences | 4,222,143 |
+| Average Caption Length | 10.66 |
 
 ## Quick Start
 
@@ -111,7 +111,7 @@ The above figure demonstrates the capabilities of our SARChat-InternVL2.5-8B mod
 We have trained and evaluated several models using the SARChat dataset:
 
 | Organization | Model | Size | Link |
-|-------------|-------|------|------|
+|:---:|:---:|:---:|:---:|
 | InternVL | SARChat-InternVL2.5 | 1B | [Link](https://huggingface.co/YourOrg/internvl2.5-1b) |
 | InternVL | SARChat-InternVL2.5 | 2B | [Link](https://huggingface.co/YourOrg/internvl2.5-2b) |
 | InternVL | SARChat-InternVL2.5 | 4B | [Link](https://huggingface.co/YourOrg/internvl2.5-4b) |
@@ -127,7 +127,7 @@ We have trained and evaluated several models using the SARChat dataset:
 | Zhipu AI | SARChat-GLM-Edge | 2B | [Link](https://huggingface.co/YourOrg/glm-edge-2b) |
 | Zhipu AI | SARChat-GLM-Edge | 5B | [Link](https://huggingface.co/YourOrg/glm-edge-4b) |
 | LLaVA-Team | SARChat-LLaVA-1.5 | 7B | [Link](https://huggingface.co/YourOrg/llava-v1.5-7b) |
-| 01.AI | SARChat-Yi-VL | 7B | [Link](https://huggingface.co/YourOrg/yi-vl-7b) |
+| 01.AI | SARChat-Yi-VL | 6B | [Link](https://huggingface.co/YourOrg/yi-vl-7b) |
 
 ## Citation
 
