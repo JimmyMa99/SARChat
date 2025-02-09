@@ -31,13 +31,15 @@ SARChat-Bench-2M is the first large-scale multimodal dialogue dataset focusing o
 
 📑 Read more about SARChat in our [paper](https://arxiv.org/abs/xxxx.xxxxx).
 
-## Architecture & Workflow
+## Overview & Model Performance
 
 <p align="center">
-  <img src="./assets/SARChat_architecture.png" alt="SARChat Architecture" width="400"/>
+  <img src="./assets/SARChat_tasks_models.png" alt="SARChat Tasks and Model Performance" width="800"/>
   <br>
-  <em>Figure 1: The overall architecture of SARChat</em>
+  <em>Figure 1: Overview of SARChat's architecture (left) and comprehensive evaluation results showing model capabilities across different tasks (right)</em>
 </p>
+
+## Data Processing Workflow
 
 <p align="center">
   <img src="./assets/SARChat_data_workflow.png" alt="SARChat Data Workflow" width="400"/>
@@ -89,14 +91,6 @@ SARChat-Bench-2M is the first large-scale multimodal dialogue dataset focusing o
 | Total Words            | 43,978,559  |
 | Total Sentences        | 4,222,143   |
 | Average Caption Length | 10.66  |
-
-## Model Performance
-
-<p align="center">
-  <img src="./assets/model_score.png" alt="Model Performance" width="800"/>
-  <br>
-  <em>Figure 5: Comprehensive evaluation results showing radar chart of model capabilities (left) and performance scores across different model series (right)</em>
-</p>
 
 ## Quick Start
 

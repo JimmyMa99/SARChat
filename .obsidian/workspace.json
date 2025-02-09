@@ -178,6 +178,8 @@
   },
   "active": "71dc991c6d684dae",
   "lastOpenFiles": [
+    "assets/SARChat_tasks_models.png",
+    "assets/fig1.png",
     "infer/README.md",
     "infer/swift-eval.py",
     "infer",
@@ -191,7 +193,6 @@
     "assets/SARChat_Test_Task_distribution.png",
     "assets/SARChat-Train-Task-distribution.png",
     "assets/Test_categories_index.png",
-    "assets/Train_categories_index.png",
     "train/logs/[SARChat-TOTAL-NORMAL]internvl2-5-1b_lora_sft_20250131_203721.log",
     "train/logs/[SARChat-TOTAL-NORMAL]mPLUG_Owl3_2b_lora_sft_20250120_212214.log",
     "train/logs/[SARChat-TOTAL-NORMAL]llava_v1.5_vicuna_lora_sft_20250130_124619.log",
