@@ -29,7 +29,7 @@
 
 SARChat-Bench-2M is the first large-scale multimodal dialogue dataset focusing on Synthetic Aperture Radar (SAR) imagery. It contains approximately 2 million high-quality SAR image-text pairs, supporting multiple tasks including scene classification, image captioning, visual question answering, and object localization. We conducted comprehensive evaluations on 16 state-of-the-art vision-language models (including Qwen2VL, InternVL2.5, and LLaVA), establishing the first multi-task benchmark in the SAR domain.
 
-📑 Read more about SARChat in our [paper](https://arxiv.org/abs/xxxx.xxxxx).
+📑 Read more about SARChat in our [paper](https://arxiv.org/abs/2502.08168).
 
 ## Overview & Model Performance
 
