@@ -136,6 +136,15 @@ We have trained and evaluated several models using the SARChat dataset:
 
 If you use this dataset or our models in your research, please cite our paper.
 
+```
+@inproceedings{Ma2025SARChatBench2MAM,
+  title={SARChat-Bench-2M: A Multi-Task Vision-Language Benchmark for SAR Image Interpretation},
+  author={Zhiming Ma and Xiayang Xiao and Sihao Dong and Peidong Wang and HaiPeng Wang and Qingyun Pan},
+  year={2025},
+  url={https://api.semanticscholar.org/CorpusID:276287423}
+}
+```
+
 ## Contact
 
 For any questions or feedback, please contact:
