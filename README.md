@@ -20,8 +20,8 @@
   <a href="https://modelscope.cn/models/YourOrg/SARChat">
     <img alt="ModelScope Model" src="https://img.shields.io/badge/ModelScope-Models-green.svg"/>
   </a>
-  <a href="https://arxiv.org/abs/xxxx.xxxxx">
-    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg"/>
+  <a href="https://arxiv.org/abs/2502.08168">
+    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2502.08168-b31b1b.svg"/>
   </a>
 </p>
 
