@@ -140,13 +140,6 @@ For any questions or feedback, please contact:
 - 📧 Email: mazhiming312@outlook.com
 - 💬 GitHub Issues: Feel free to open an issue in this repository
 
-## Acknowledgments
-
-We would like to thank:
-- [Organization/Individual] for their support in data collection
-- [Organization/Individual] for their valuable feedback
-- [Computing Infrastructure] for providing computing resources
-- All contributors who helped create and improve this dataset
 
 ---
 <p align="center">
