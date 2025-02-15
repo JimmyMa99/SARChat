@@ -243,8 +243,8 @@ class SwiftInferenceManager:
 
 def main():
     ##要改的
-    model_path = "/root/code/sarchat-exp/swift_output/SARChat-DeepSeekVL-1.3B-Lora/v3-20250204-041929/checkpoint-56829-merged"
-    base_output_dir="/root/code/sarchat-exp/swift_eval/DeepSeekVL-1.3B"
+    model_path = ""
+    base_output_dir=""
     #############
     input_data_paths = [
         "{your_test_set}/SARChat_classify_count_test.json",
