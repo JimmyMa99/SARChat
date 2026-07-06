@@ -20,6 +20,9 @@
   <a href="https://modelscope.cn/models/YourOrg/SARChat">
     <img alt="ModelScope Model" src="https://img.shields.io/badge/ModelScope-Models-green.svg"/>
   </a>
+  <a href="https://www.modelscope.cn/collections/JimmyMa99/SARChat">
+    <img alt="ModelScope Open Weights" src="https://img.shields.io/badge/ModelScope-Open%20Weights-green.svg"/>
+  </a>
   <a href="https://arxiv.org/abs/2502.08168">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2502.08168-b31b1b.svg"/>
   </a>
@@ -30,6 +33,8 @@
 SARChat-Bench-2M is the first large-scale multimodal dialogue dataset focusing on Synthetic Aperture Radar (SAR) imagery. It contains approximately 2 million high-quality SAR image-text pairs, supporting multiple tasks including scene classification, image captioning, visual question answering, and object localization. We conducted comprehensive evaluations on 16 state-of-the-art vision-language models (including Qwen2VL, InternVL2.5, and LLaVA), establishing the first multi-task benchmark in the SAR domain.
 
 📑 Read more about SARChat in our [paper](https://arxiv.org/abs/2502.08168).
+
+🚀 The SARChat model weights have been open-sourced and are available on [ModelScope](https://www.modelscope.cn/collections/JimmyMa99/SARChat).
 
 
 ## Overview & Model Performance
@@ -98,6 +103,8 @@ SARChat-Bench-2M is the first large-scale multimodal dialogue dataset focusing o
 ## Quick Start
 
 🤗 Visit our [Hugging Face dataset page](https://huggingface.co/datasets/YourOrg/SARChat) for more details and examples.
+
+📦 Download the open-sourced SARChat weights from our [ModelScope collection](https://www.modelscope.cn/collections/JimmyMa99/SARChat).
 
 ## Results Showcase
 
